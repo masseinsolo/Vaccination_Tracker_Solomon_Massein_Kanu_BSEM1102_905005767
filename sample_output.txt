@@ -1,0 +1,33 @@
+
+===== VACCINATION TRACKER =====
+1. Run quick demo
+2. Add recipient
+3. Record a dose
+4. Display all records
+5. Show total recipients
+0. Exit
+Choose an option: R001: COVID-19 dose recorded.
+R001: COVID-19 dose recorded.
+R001: already fully vaccinated for COVID-19.
+R002: Polio dose recorded.
+
+=== Vaccination Records ===
+ID: R001 | Age group: adult
+   - COVID-19 on 2026-10-27
+   - COVID-19 on 2026-10-27
+ID: R002 | Age group: child
+   - Polio on 2026-10-27
+ID: R003 | Age group: elderly
+
+R001 fully vaccinated (COVID-19)? True
+Total recipients: 3
+Valid age group 'teen'? False
+
+===== VACCINATION TRACKER =====
+1. Run quick demo
+2. Add recipient
+3. Record a dose
+4. Display all records
+5. Show total recipients
+0. Exit
+Choose an option: Goodbye!
